@@ -1,0 +1,37 @@
+{
+    "houses": [
+        {
+            "name": "Gryffindor",
+            "id": 0,
+            "questions":{
+
+            },
+            "history":""
+        },
+        {
+            "name": "Hufflepuff",
+            "id": 1,
+            "questions":{
+
+            },
+            "history":""
+        },
+        {
+            "name": "Ravenclaw",
+            "id": 2,
+            "questions":{
+
+            },
+            "history":""
+        },
+        {
+            "name": "Slytherin",
+            "id": 3,
+            "questions":[],
+            "answers":[],
+                
+            
+            "history":""
+        }
+    ]
+}
